@@ -1,4 +1,5 @@
-#ReadMe: For MSDS -692 Data Science Practicum I - By Sandeep Modi <H1>
+ReadMe: For MSDS -692 Data Science Practicum I - 
+#By Sandeep Modi<h1> 
 
 Coffee Margin 
 
