@@ -1,8 +1,10 @@
-ReadMe: For MSDS -692 Data Science Practicum I - By Sandeep Modi 
+#ReadMe: For MSDS -692 Data Science Practicum I - By Sandeep Modi <h1>
+
 Coffee Margin 
+
 I will be researching what location sales the most coffee in the United States. And which location is the most profitable.
 
-Getting Started
+##Getting Started<h2>
 The GitHub has the following information about the project: 
 o	DataSet
 o	Code
